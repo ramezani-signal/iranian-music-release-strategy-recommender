@@ -1,0 +1,27 @@
+﻿group_type,group_value,duration_feature,rows,spearman_correlation,spearman_pvalue
+global,all,duration_minutes,115,0.28449224912309695,0.002059970218708646
+global,all,strategy_rz_duration_minutes,115,0.28449224912309695,0.002059970218708646
+category,classic_fusion,duration_minutes,17,0.11519607843137256,0.659750043107423
+category,classic_fusion,strategy_rz_duration_minutes,17,0.11519607843137256,0.659750043107423
+category,pop,duration_minutes,76,0.34482475981912997,0.002285092001353365
+category,pop,strategy_rz_duration_minutes,76,0.34482475981912997,0.002285092001353365
+category,rap_hiphop,duration_minutes,22,0.1463277069692168,0.5158298993443601
+category,rap_hiphop,strategy_rz_duration_minutes,22,0.1463277069692168,0.5158298993443601
+artist,ساسی مانکن,duration_minutes,15,0.44146577056219555,0.09948088657775818
+artist,ساسی مانکن,strategy_rz_duration_minutes,15,0.44146577056219555,0.09948088657775818
+artist,سهراب پاکزاد,duration_minutes,13,0.09890109890109891,0.7478683035983906
+artist,سهراب پاکزاد,strategy_rz_duration_minutes,13,0.09890109890109891,0.7478683035983906
+artist,علیرضا قربانی,duration_minutes,9,-0.03333333333333333,0.9321567355405039
+artist,علیرضا قربانی,strategy_rz_duration_minutes,9,-0.03333333333333333,0.9321567355405039
+artist,فرزاد فرزین,duration_minutes,19,0.1413521176918222,0.5637898929519002
+artist,فرزاد فرزین,strategy_rz_duration_minutes,19,0.1413521176918222,0.5637898929519002
+artist,محسن چاووشی,duration_minutes,21,-0.16758688769551808,0.46776910338526223
+artist,محسن چاووشی,strategy_rz_duration_minutes,21,-0.16758688769551808,0.46776910338526223
+artist,محسن یگانه,duration_minutes,12,0.2027972027972028,0.5273023541661079
+artist,محسن یگانه,strategy_rz_duration_minutes,12,0.2027972027972028,0.5273023541661079
+artist,همایون شجریان,duration_minutes,8,0.5952380952380953,0.11952980613879274
+artist,همایون شجریان,strategy_rz_duration_minutes,8,0.5952380952380953,0.11952980613879274
+artist,هیچکس,duration_minutes,7,-0.39285714285714296,0.3833168704269725
+artist,هیچکس,strategy_rz_duration_minutes,7,-0.39285714285714296,0.3833168704269725
+artist,گرشا رضایی,duration_minutes,11,0.3545454545454546,0.28469274095588665
+artist,گرشا رضایی,strategy_rz_duration_minutes,11,0.3545454545454546,0.28469274095588665

@@ -1,0 +1,19 @@
+﻿group_type,group_value,signal,n_signal_0,n_signal_1,high_or_top_rate_signal_0,high_or_top_rate_signal_1,high_or_top_rate_difference,median_performance_signal_0,median_performance_signal_1,median_performance_difference,mann_whitney_statistic,mann_whitney_pvalue
+artist,ساسی مانکن,title_has_music_video,15,0,0.13333333333333333,,,36.36,,,,
+artist,ساسی مانکن,title_has_lyric_video,15,0,0.13333333333333333,,,36.36,,,,
+artist,سهراب پاکزاد,title_has_music_video,9,4,0.1111111111111111,0.0,-0.1111111111111111,17.11,36.185,19.075000000000003,25.0,0.3300699300699301
+artist,سهراب پاکزاد,title_has_lyric_video,8,5,0.0,0.2,0.2,19.735,50.0,30.265,27.0,0.3543123543123543
+artist,علیرضا قربانی,title_has_music_video,8,1,0.5,0.0,-0.5,73.53,5.88,-67.65,0.0,0.2222222222222222
+artist,علیرضا قربانی,title_has_lyric_video,9,0,0.4444444444444444,,,64.71,,,,
+artist,فرزاد فرزین,title_has_music_video,6,13,0.16666666666666666,0.0,-0.16666666666666666,23.025000000000002,55.26,32.235,57.0,0.12737726669615215
+artist,فرزاد فرزین,title_has_lyric_video,19,0,0.05263157894736842,,,48.68,,,,
+artist,محسن چاووشی,title_has_music_video,19,2,0.6842105263157895,0.0,-0.6842105263157895,82.89,38.815,-44.075,2.0,0.0380952380952381
+artist,محسن چاووشی,title_has_lyric_video,14,7,0.5714285714285714,0.7142857142857143,0.1428571428571429,80.25999999999999,80.26,1.4210854715202004e-14,47.0,0.91312349501204
+artist,محسن یگانه,title_has_music_video,12,0,0.3333333333333333,,,55.260000000000005,,,,
+artist,محسن یگانه,title_has_lyric_video,12,0,0.3333333333333333,,,55.260000000000005,,,,
+artist,همایون شجریان,title_has_music_video,8,0,0.125,,,44.120000000000005,,,,
+artist,همایون شجریان,title_has_lyric_video,8,0,0.125,,,44.120000000000005,,,,
+artist,هیچکس,title_has_music_video,7,0,0.5714285714285714,,,81.82,,,,
+artist,هیچکس,title_has_lyric_video,7,0,0.5714285714285714,,,81.82,,,,
+artist,گرشا رضایی,title_has_music_video,5,6,0.0,0.0,0.0,42.11,25.66,-16.45,10.0,0.42857142857142855
+artist,گرشا رضایی,title_has_lyric_video,11,0,0.0,,,31.58,,,,

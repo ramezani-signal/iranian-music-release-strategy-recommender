@@ -1,0 +1,15 @@
+﻿protocol,fold,held_out_artist,train_rows,test_rows,train_positive,train_negative,test_positive,test_negative,test_has_both_classes,artist_overlap_count
+leave_one_artist_out,1,ساسی مانکن,100,15,28,72,2,13,1,
+leave_one_artist_out,2,سهراب پاکزاد,102,13,29,73,1,12,1,
+leave_one_artist_out,3,علیرضا قربانی,106,9,26,80,4,5,1,
+leave_one_artist_out,4,فرزاد فرزین,96,19,29,67,1,18,1,
+leave_one_artist_out,5,محسن چاووشی,94,21,17,77,13,8,1,
+leave_one_artist_out,6,محسن یگانه,103,12,26,77,4,8,1,
+leave_one_artist_out,7,همایون شجریان,107,8,29,78,1,7,1,
+leave_one_artist_out,8,هیچکس,108,7,26,82,4,3,1,
+leave_one_artist_out,9,گرشا رضایی,104,11,30,74,0,11,0,
+stratified_5_fold,1,,92,23,24,68,6,17,1,8.0
+stratified_5_fold,2,,92,23,24,68,6,17,1,8.0
+stratified_5_fold,3,,92,23,24,68,6,17,1,8.0
+stratified_5_fold,4,,92,23,24,68,6,17,1,9.0
+stratified_5_fold,5,,92,23,24,68,6,17,1,8.0

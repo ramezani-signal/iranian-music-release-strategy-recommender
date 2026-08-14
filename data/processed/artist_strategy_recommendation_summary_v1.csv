@@ -1,0 +1,9 @@
+﻿artist_name_fa,category,recommendation_count,signals,evidence_grades,confidence_levels
+ساسی مانکن,rap_hiphop,2,days_since_previous_release | duration_minutes,B_context_dependent | C_exploratory,low_medium
+سهراب پاکزاد,pop,1,title_has_lyric_video,C_exploratory,low
+علیرضا قربانی,classic_fusion,2,days_since_previous_release | duration_minutes,B_context_dependent | C_exploratory,medium | medium_high
+فرزاد فرزین,pop,1,title_has_lyric_video,C_exploratory,low
+محسن چاووشی,pop,4,days_since_previous_release | duration_minutes | title_has_lyric_video | title_has_music_video,B_context_dependent | C_exploratory,low | medium | medium_high
+محسن یگانه,pop,3,days_since_previous_release | duration_minutes | title_has_lyric_video,B_context_dependent | C_exploratory,low | medium | medium_high
+هیچکس,rap_hiphop,2,days_since_previous_release | duration_minutes,B_context_dependent | C_exploratory,medium
+گرشا رضایی,pop,1,title_has_lyric_video,C_exploratory,low

@@ -1,0 +1,10 @@
+﻿artist_name_fa,category,output_row_count,active_recommendation_count,category_fallback_count,historical_observation_count,insufficient_evidence_count,signals,confidence_levels
+ساسی مانکن,rap_hiphop,2,0,0,2,0,days_since_previous_release | duration_minutes,low
+سهراب پاکزاد,pop,2,0,1,0,1,insufficient_artist_evidence | title_has_lyric_video,insufficient | low_medium
+علیرضا قربانی,classic_fusion,2,2,0,0,0,days_since_previous_release | duration_minutes,low_medium | medium
+فرزاد فرزین,pop,2,0,1,0,1,insufficient_artist_evidence | title_has_lyric_video,insufficient | low_medium
+محسن چاووشی,pop,4,3,1,0,0,days_since_previous_release | duration_minutes | title_has_lyric_video | title_has_music_video,low | low_medium | medium | medium_high
+محسن یگانه,pop,3,2,1,0,0,days_since_previous_release | duration_minutes | title_has_lyric_video,low_medium | medium
+همایون شجریان,classic_fusion,1,0,0,0,1,insufficient_artist_evidence,insufficient
+هیچکس,rap_hiphop,2,2,0,0,0,days_since_previous_release | duration_minutes,low_medium | medium
+گرشا رضایی,pop,2,0,1,0,1,insufficient_artist_evidence | title_has_lyric_video,insufficient | low_medium

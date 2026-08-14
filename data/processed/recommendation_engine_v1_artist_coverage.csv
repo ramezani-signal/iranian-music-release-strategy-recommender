@@ -1,0 +1,10 @@
+﻿artist_name_fa,category,recommendation_count,release_count,positive_release_count,coverage_status
+همایون شجریان,classic_fusion,0,8,1,insufficient_artist_evidence
+علیرضا قربانی,classic_fusion,2,9,4,recommendations_generated
+محسن چاووشی,pop,4,21,13,recommendations_generated
+فرزاد فرزین,pop,1,19,1,recommendations_generated
+محسن یگانه,pop,3,12,4,recommendations_generated
+سهراب پاکزاد,pop,1,13,1,recommendations_generated
+گرشا رضایی,pop,1,11,0,recommendations_generated
+ساسی مانکن,rap_hiphop,2,15,2,recommendations_generated
+هیچکس,rap_hiphop,2,7,4,recommendations_generated

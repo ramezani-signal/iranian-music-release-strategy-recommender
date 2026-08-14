@@ -1,0 +1,92 @@
+﻿channel_id,api_channel_title,candidate_videos,matched_artists,licensed_videos,music_category_videos,artists,source_type,source_status,source_notes
+UCCn_0vWsa35jSTRNlX15hzQ,TPM - Top Persian Music,23,4,22,23,سهراب پاکزاد | علیرضا قربانی | فرزاد فرزین | گرشا رضایی,trusted_music_platform,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCO7rnnjVkPeDutLWuROEzKw,MohsenChavoshiVEVO,16,1,16,16,محسن چاووشی,vevo,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCMQ39QYA6tpAu_ZDaOWn7IQ,Farzad Farzin,15,1,14,15,فرزاد فرزین,official_artist,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCVjt1H4u5z3Ya7_hxHGus6w,Radio Javan,13,1,13,13,ساسی مانکن,trusted_music_platform,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCQnVOIzzZ-r2vKWZGEvd7Zw,Sohrab Pakzad,9,1,9,9,سهراب پاکزاد,official_artist,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCregxQqAisNcggQriK9f3Qw,Alireza Ghorbani,9,1,2,9,علیرضا قربانی,official_artist,trusted,top20_manual_audit_2026-07-10; confidence=high
+UC8u6telGfDJ2wd8lSwLoauQ,Persian Music Group,7,2,7,7,فرزاد فرزین | محسن یگانه,trusted_music_platform,trusted,top20_manual_audit_2026-07-10; confidence=high
+UC9qZPJyvvZiBmzYdqdgly1w,SohrabPakzadVEVO,6,1,6,6,سهراب پاکزاد,vevo,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCF2LMk6XCzazmPPWrxc7qSg,Mohsen Yeganeh,6,1,6,6,محسن یگانه,official_artist,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCisezGQDdiJZ6lmMQjVclvA,Garsha Rezaei,6,1,6,6,گرشا رضایی,official_artist,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCmBIX3tItWTCmbkcARiyZkg,Homayoun Shajarian,6,1,5,6,همایون شجریان,official_artist,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCAnylXo06Lw_x8swLZhIosg,Hichkas,5,1,1,5,هیچکس,official_artist,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCjibqVppvIlLK4lbXRsbhhw,Melodifa,4,1,4,2,همایون شجریان,trusted_music_platform,trusted,top20_manual_audit_2026-07-10; confidence=medium_high
+UCpToffK2aE57CCK_uBCNHyA,Fact Music,3,3,3,3,سهراب پاکزاد | فرزاد فرزین | محسن چاووشی,label_or_distributor,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCN73foROjDkwZEKS05z6KHQ,The ZiCord,3,1,3,3,محسن چاووشی,label_or_distributor,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCIoXa9CZoDHPao2qnfGU5mg,honarnewsofficial,2,2,2,0,همایون شجریان | گرشا رضایی,media_or_news,excluded,top20_manual_audit_2026-07-10; confidence=high
+UC6J32FcpsyYA_JGxrEHPbBQ,Alireza Yazdani,2,2,0,2,علیرضا قربانی | محسن چاووشی,remix_channel,excluded,top20_manual_audit_2026-07-10; confidence=high
+UCUR0IBUfM1puV2qa-3m7FWQ,farsiReact,2,2,0,2,محسن یگانه | همایون شجریان,reaction,excluded,top20_manual_audit_2026-07-10; confidence=high
+UC7Hs0659Yc82h7Snhjnfd4g,Avang Music,2,1,2,2,ساسی مانکن,label_or_distributor,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCFnc_tL9if9l5As18rnAyGA,Mohsen Chavoshi,2,1,2,2,محسن چاووشی,official_artist,trusted,top20_manual_audit_2026-07-10; confidence=high
+UCHgdN_bLmnnuvt6bKn8Uxfw,Sasy - Topic,2,1,2,2,ساسی مانکن,topic,trusted,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCX7iFtn4OnJYNLXyKQsnHGg,MELODIFA CLASSIC,2,1,2,2,همایون شجریان,trusted_music_platform,trusted,sources_21_40_manual_audit_2026-07-10; confidence=high
+UChysexdHBwnvEMDFuKiCUZw,HichkasVEVO,2,1,2,2,هیچکس,vevo,trusted,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCoOjmdECYvybtOOKtlwvsAw,RadioActive Zone,2,1,2,0,هیچکس,reaction,excluded,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCuGnnvoIOfRfkvYVHzTUWYQ,Persian Media Group,2,1,2,2,فرزاد فرزین,label_or_distributor,trusted,sources_21_40_manual_audit_2026-07-10; confidence=high
+UC9PxiuAlnUmaAhe52mYeXeQ,Mohammad Fazlali,2,1,0,0,علیرضا قربانی,third_party_music,pending_review,sources_21_40_manual_audit_2026-07-10; confidence=medium
+UCHZk9MrT3DGWmVqdsj5y0EA,BBC Persian,1,1,1,0,علیرضا قربانی,media_or_news,excluded,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCMPdfQnOy5Vu07j6C141FWQ,PUMP VOD,1,1,1,0,فرزاد فرزین,entertainment,excluded,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCQlzBlY30F51MXStCS2KfGQ,Parsi Tv,1,1,1,0,محسن یگانه,media_or_news,excluded,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCQngZK1cnqB6C9A11wIPkvQ,Music City | موزیک شهر,1,1,1,1,محسن یگانه,reaction,excluded,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCVJZW-tOn3hFgeh0kZpSbjw,Mehdi Kord Art Group,1,1,1,1,محسن یگانه,third_party_music,pending_review,sources_21_40_manual_audit_2026-07-10; confidence=medium
+UC_xcDPW-ARj59n1qhYaLOqQ,Alireza Ghorbani - Topic,1,1,1,1,علیرضا قربانی,topic,trusted,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCa20QQoV4gaLv9XRki-ynWQ,PUTAK,1,1,1,0,هیچکس,unknown,pending_review,sources_21_40_manual_audit_2026-07-10; confidence=low
+UCfTyeE7jWJK6q7lTdIUv57w,Anoushiravan Rohani,1,1,1,1,همایون شجریان,artist_owned,pending_review,sources_21_40_manual_audit_2026-07-10; confidence=medium
+UChLs096B3kOpLYhVK1ldSvg,Khosousi,1,1,1,1,همایون شجریان,third_party_music,excluded,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCkpVRmYsrxg4I8SsTQA2CkA,Masoud Masoumi,1,1,1,1,علیرضا قربانی,third_party_music,pending_review,sources_21_40_manual_audit_2026-07-10; confidence=medium
+UCmp7UNNvJIkRTd44nC5PR9g,Saeed Afrough,1,1,1,1,گرشا رضایی,reaction,excluded,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCobfxWqSORuodnQ5rdNw-bw,Mohsen Yeganeh - Topic,1,1,1,1,محسن یگانه,topic,trusted,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCtS_MyKAEqPJgw-WNPxb5cA,SINAVID,1,1,1,0,هیچکس,unknown,pending_review,sources_21_40_manual_audit_2026-07-10; confidence=low
+UCtnsBNReKiPjTZoz7qBZDlA,مجله خبری پرایم نیوز,1,1,1,0,ساسی مانکن,media_or_news,excluded,sources_21_40_manual_audit_2026-07-10; confidence=high
+UCtr7DrT-BGQnst11NLCsv_w,Persian Music,1,1,1,1,گرشا رضایی,trusted_music_platform,trusted,sources_41_60_manual_audit_2026-07-10; confidence=high
+UCw5LO6ba1yNC3cps4Zu_1Hg,Mohsen Chavoshi - Topic,1,1,1,1,محسن چاووشی,topic,trusted,sources_41_60_manual_audit_2026-07-10; confidence=high
+UCyGYNC7IQWWmyb_4h8OxElg,Raharecords - رهارکورد,1,1,1,1,علیرضا قربانی,label_or_distributor,trusted,sources_41_60_manual_audit_2026-07-10; confidence=high
+UC-nWrwyltC2ibR8jp5y9Ucg,Moltafet Therapy,1,1,0,0,هیچکس,third_party_music,pending_review,sources_41_60_manual_audit_2026-07-10; confidence=medium
+UC-rSD_7jPlK0uD8rlU12B1g,Filimo Medio,1,1,0,0,هیچکس,unknown,excluded,sources_41_60_manual_audit_2026-07-10; confidence=medium
+UC2Oqki4KiHm8B9Im45WCZHQ,Music melody,1,1,0,0,ساسی مانکن,third_party_music,excluded,sources_41_60_manual_audit_2026-07-10; confidence=high
+UC2zgju7z2H0g9qRmftG_1iA,Sam Gh,1,1,0,0,همایون شجریان,third_party_music,excluded,sources_41_60_manual_audit_2026-07-10; confidence=medium
+UC3yxyivq_AXMRYu547R-9Rw,کنسرت ایرانی,1,1,0,0,محسن یگانه,concert_channel,excluded,sources_41_60_manual_audit_2026-07-10; confidence=high
+UC4za7IvgFZguD8o-nS9LnaQ,Shahram Afshin,1,1,0,0,علیرضا قربانی,third_party_music,excluded,sources_41_60_manual_audit_2026-07-10; confidence=medium
+UC5qpK8RV882s3J1aCI0umig,Ghaphlan Khaligh (Ghaflan Khaligh),1,1,0,1,ساسی مانکن,third_party_music,pending_review,sources_41_60_manual_audit_2026-07-10; confidence=medium
+UC6-OazUqmbrVK_b1uMYcjfA,Radio Javan,1,1,0,1,ساسی مانکن,third_party_music,excluded,sources_41_60_manual_audit_2026-07-10; confidence=high
+UC6uOk4kSCROrgKkdHKv2I7w,Mrspecial,1,1,0,1,گرشا رضایی,entertainment,excluded,sources_41_60_manual_audit_2026-07-10; confidence=high
+UC70ecBCkLFaSAC5UCLPJHPA,RapFars,1,1,0,0,هیچکس,media_or_news,excluded,sources_41_60_manual_audit_2026-07-10; confidence=high
+UC7zsmnc17R-LSTV4Dl5sN2w,Homayounshajarian fans,1,1,0,0,همایون شجریان,fan_or_reupload,excluded,sources_41_60_manual_audit_2026-07-10; confidence=high
+UC9eV0XXaHkTvPYh0oIAvbfQ,simorq farhang,1,1,0,1,همایون شجریان,artist_owned,pending_review,sources_41_60_manual_audit_2026-07-10; confidence=medium
+UCAJbSaWpLovszCdQoGxa2mA,Ebrahim Mohamadi,1,1,0,0,همایون شجریان,third_party_music,pending_review,sources_41_60_manual_audit_2026-07-10; confidence=low
+UCCXJKONAosl9wdkS1x9XGvg,Justruler,1,1,0,1,محسن یگانه,third_party_music,pending_review,sources_41_60_manual_audit_2026-07-10; confidence=medium
+UCFAIKt9lqX8_UR5avUWrQjg,StorySasy,1,1,0,0,ساسی مانکن,fan_or_reupload,excluded,sources_41_60_manual_audit_2026-07-10; confidence=high
+UCG6dTZjThIJih8BBkeS3FaA,Hafdang Old Channel | کانال قدیمی هفدانگ,1,1,0,1,همایون شجریان,third_party_music,pending_review,sources_41_60_manual_audit_2026-07-10; confidence=medium
+UCGV-fV3AkEHYzf1iW2ADeMA,Day2DayWorld,1,1,0,0,همایون شجریان,entertainment,excluded,sources_41_60_manual_audit_2026-07-10; confidence=high
+UCIsP6PqqS0IJ4tQroGs39dA,Iranian Diaspora | خانه ایرانیان خارج از کشور 🌍,1,1,0,0,علیرضا قربانی,unknown,pending_review,
+UCLqt9UYZ1KHgPRfGJjIzX9A,Majid Noori,1,1,0,0,محسن یگانه,unknown,pending_review,
+UCM-IfEJlVROv5Ev04-uIbKg,RapFars,1,1,0,0,هیچکس,unknown,pending_review,
+UCObiBmofF-Cz-zmaA4AwUiQ,زن زندگی آزادی ,1,1,0,0,هیچکس,unknown,pending_review,
+UCPXz0-xxF-CpeygWBdyG8dg,Semi Journey,1,1,0,0,علیرضا قربانی,unknown,pending_review,
+UCQycZB9MF-PAouhfh_DCk7Q,NAVID KARATE,1,1,0,0,محسن یگانه,unknown,pending_review,
+UCU5NicMWNILYk1nbxJkCzsA,Faranak99,1,1,0,1,علیرضا قربانی,unknown,pending_review,
+UCWTApkr82_QxpEr9Pa2m1CQ,Soheil Khodabandeh ,1,1,0,1,هیچکس,unknown,pending_review,
+UCXx7IRnRe5w3iCS3b5ji-3g,Amyr IQ,1,1,0,0,هیچکس,unknown,pending_review,
+UCZ_EaorXnxxb-lr4Et2AZaQ,ژلوفن,1,1,0,0,محسن یگانه,unknown,pending_review,
+UCaBf4RgTCzJIEnvOlNuxYKw,Sedkhareji | سدخارجی,1,1,0,0,محسن چاووشی,unknown,pending_review,
+UCbH4g2hM_uquaz5oqnfuCcQ,Persian Music & Concerts,1,1,0,1,محسن یگانه,unknown,pending_review,
+UCd26HBP85gdHjA_BXfDJS0Q,siavash1994,1,1,0,1,هیچکس,unknown,pending_review,
+UCg-gC2zxNjttTUiPMSuBydA,musics 212,1,1,0,0,علیرضا قربانی,unknown,pending_review,
+UChdqGZPSamzW8MgaopXHvcA,Karizmaplus,1,1,0,0,سهراب پاکزاد,unknown,pending_review,
+UCiEK11dphMbDnbSXNvLOFCg,AmirSadegh Rassouli,1,1,0,1,همایون شجریان,unknown,pending_review,
+UCk4z-69inYrGU91ekoiAdGA,FSocietySJ,1,1,0,1,هیچکس,unknown,pending_review,
+UCkD9OfpMEjuCHgsWH0aYqRw,Bamzo | بامزو,1,1,0,0,سهراب پاکزاد,unknown,pending_review,
+UCkFy4v0k9tDYr0bYPiYu8MQ,Passions,1,1,0,1,محسن یگانه,unknown,pending_review,
+UClXh_eGGA6q5qQ5QBhjLTFw,idehistaofficial,1,1,0,0,علیرضا قربانی,unknown,pending_review,
+UClp7AB4tDx0ioD1WSJNCBlQ,AA trap,1,1,0,0,هیچکس,unknown,pending_review,
+UCoZSdMt8rbbMIWhtTglKbgQ,seyed amirhossien fallahasl,1,1,0,0,علیرضا قربانی,unknown,pending_review,
+UCpG143VsbN_aNlxkHC9n1rA,arian2009,1,1,0,1,ساسی مانکن,unknown,pending_review,
+UCpzPEdsHCpkrjFzkeKc6n3A,VividTv,1,1,0,0,ساسی مانکن,unknown,pending_review,
+UCqMQlHv2vCC1hUvDGFvJqIw,Ali Fani,1,1,0,1,هیچکس,unknown,pending_review,
+UCqZeJVn5evgB93CPe2QMypg,Naghmeha - Persian Songs and Poems نغمه ها و اشعار,1,1,0,0,همایون شجریان,unknown,pending_review,
+UCvQF6ODadEBg5SESEbPWmcw,YounnesMusic ,1,1,0,0,گرشا رضایی,unknown,pending_review,
+UCwjQElxgabbU4OIbAXxhYjA,RAP_FARSI,1,1,0,0,هیچکس,unknown,pending_review,
+UCxGDGm26uFZ9PJ3-JcXaPRA,Farhikhte_HipHop,1,1,0,1,هیچکس,unknown,pending_review,
+UCxMWUitJjW5TxxzV6lzxEjA,Travel with me l سفر با سیمی,1,1,0,0,سهراب پاکزاد,unknown,pending_review,
+UCzIjGS-HRN9NNK3fkkv9fsw,pedro xavi,1,1,0,1,ساسی مانکن,unknown,pending_review,

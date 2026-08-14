@@ -1,0 +1,6 @@
+google-api-python-client
+numpy
+pandas
+python-dotenv
+scikit-learn
+scipy

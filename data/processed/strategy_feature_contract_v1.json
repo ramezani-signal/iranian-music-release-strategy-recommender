@@ -1,0 +1,86 @@
+{
+  "contract_version": "STRATEGY_FEATURE_CONTRACT_V1",
+  "feature_matrix_version": "SFM_V1",
+  "row_count": 115,
+  "core_strategy_features": [
+    "duration_minutes",
+    "release_hour_tehran",
+    "is_iran_weekend_release",
+    "days_since_previous_release",
+    "title_character_count",
+    "title_word_count",
+    "title_has_official",
+    "title_has_music_video",
+    "title_has_lyric_video",
+    "title_has_collaboration",
+    "title_contains_persian",
+    "title_is_bilingual"
+  ],
+  "continuous_model_features": [
+    "duration_minutes",
+    "release_hour_tehran",
+    "days_since_previous_release_imputed",
+    "title_character_count",
+    "title_word_count"
+  ],
+  "robust_model_features": [
+    "strategy_rz_duration_minutes",
+    "strategy_rz_release_hour_tehran",
+    "strategy_rz_days_since_previous_release_imputed",
+    "strategy_rz_title_character_count",
+    "strategy_rz_title_word_count"
+  ],
+  "binary_model_features": [
+    "is_iran_weekend_release",
+    "days_since_previous_release_missing",
+    "title_has_official",
+    "title_has_music_video",
+    "title_has_lyric_video",
+    "title_has_collaboration",
+    "title_contains_persian",
+    "title_is_bilingual"
+  ],
+  "context_features": [
+    "category_classic_fusion",
+    "category_pop",
+    "category_rap_hiphop"
+  ],
+  "experimental_features": [
+    "title_has_visual",
+    "title_has_clip",
+    "title_has_soundtrack",
+    "title_has_alternative_version",
+    "title_has_separator"
+  ],
+  "model_features": [
+    "strategy_rz_duration_minutes",
+    "strategy_rz_release_hour_tehran",
+    "strategy_rz_days_since_previous_release_imputed",
+    "strategy_rz_title_character_count",
+    "strategy_rz_title_word_count",
+    "is_iran_weekend_release",
+    "days_since_previous_release_missing",
+    "title_has_official",
+    "title_has_music_video",
+    "title_has_lyric_video",
+    "title_has_collaboration",
+    "title_contains_persian",
+    "title_is_bilingual",
+    "category_classic_fusion",
+    "category_pop",
+    "category_rap_hiphop"
+  ],
+  "target_columns": [
+    "performance_index_raw_final",
+    "performance_percentile_final",
+    "performance_tier_final",
+    "is_top_performer",
+    "is_high_or_top"
+  ],
+  "notes": {
+    "days_since_previous_release": "First observed release per artist is structurally missing.",
+    "gap_imputation": "Category median, then global median fallback.",
+    "experimental_features": "Retained for analysis but excluded from baseline model due to sparsity or unstable evidence.",
+    "causal_interpretation": "Feature associations are observational and must not be interpreted as causal effects."
+  }
+}

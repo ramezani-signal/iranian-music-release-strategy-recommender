@@ -1,0 +1,21 @@
+﻿artist_name_fa,category,signal,recommendation_status,recommendation_scope,reported_confidence,reported_support_count,actual_support_count,reported_signal_total_count,actual_signal_total_count,reported_positive_signal_count,actual_positive_signal_count,reported_negative_signal_count,actual_negative_signal_count,reported_reference_positive_count,actual_reference_positive_count,reported_reference_total_count,actual_reference_total_count,issue_count,issue_flags,audit_status
+ساسی مانکن,rap_hiphop,days_since_previous_release,historical_observation,artist_specific_exploratory,low,2,2,0,0,0,0,0,0,2,2,15,15,0,,pass
+ساسی مانکن,rap_hiphop,duration_minutes,historical_observation,artist_specific,low,2,2,0,0,0,0,0,0,2,2,15,15,0,,pass
+سهراب پاکزاد,pop,title_has_lyric_video,category_fallback_recommendation,category_exploratory_fallback,low_medium,6,6,12,12,6,6,6,6,19,19,76,76,0,,pass
+سهراب پاکزاد,pop,insufficient_artist_evidence,insufficient_artist_evidence,artist_status,insufficient,1,1,0,0,0,0,0,0,1,1,13,13,0,,pass
+علیرضا قربانی,classic_fusion,days_since_previous_release,active_recommendation,artist_specific_exploratory,low_medium,4,4,0,0,0,0,0,0,4,4,9,9,0,,pass
+علیرضا قربانی,classic_fusion,duration_minutes,active_recommendation,artist_specific,medium,4,4,0,0,0,0,0,0,4,4,9,9,0,,pass
+فرزاد فرزین,pop,title_has_lyric_video,category_fallback_recommendation,category_exploratory_fallback,low_medium,6,6,12,12,6,6,6,6,19,19,76,76,0,,pass
+فرزاد فرزین,pop,insufficient_artist_evidence,insufficient_artist_evidence,artist_status,insufficient,1,1,0,0,0,0,0,0,1,1,19,19,0,,pass
+محسن چاووشی,pop,days_since_previous_release,active_recommendation,artist_specific_exploratory,medium,13,13,0,0,0,0,0,0,13,13,21,21,0,,pass
+محسن چاووشی,pop,duration_minutes,active_recommendation,artist_specific,medium_high,13,13,0,0,0,0,0,0,13,13,21,21,0,,pass
+محسن چاووشی,pop,title_has_music_video,active_recommendation,artist_specific,low,2,2,2,2,0,0,2,2,13,13,21,21,0,,pass
+محسن چاووشی,pop,title_has_lyric_video,category_fallback_recommendation,category_exploratory_fallback,low_medium,6,6,12,12,6,6,6,6,19,19,76,76,0,,pass
+محسن یگانه,pop,days_since_previous_release,active_recommendation,artist_specific_exploratory,low_medium,3,3,0,0,0,0,0,0,3,3,12,12,0,,pass
+محسن یگانه,pop,duration_minutes,active_recommendation,artist_specific,medium,4,4,0,0,0,0,0,0,4,4,12,12,0,,pass
+محسن یگانه,pop,title_has_lyric_video,category_fallback_recommendation,category_exploratory_fallback,low_medium,6,6,12,12,6,6,6,6,19,19,76,76,0,,pass
+همایون شجریان,classic_fusion,insufficient_artist_evidence,insufficient_artist_evidence,artist_status,insufficient,1,1,0,0,0,0,0,0,1,1,8,8,0,,pass
+هیچکس,rap_hiphop,days_since_previous_release,active_recommendation,artist_specific_exploratory,low_medium,3,3,0,0,0,0,0,0,3,3,7,7,0,,pass
+هیچکس,rap_hiphop,duration_minutes,active_recommendation,artist_specific,medium,4,4,0,0,0,0,0,0,4,4,7,7,0,,pass
+گرشا رضایی,pop,title_has_lyric_video,category_fallback_recommendation,category_exploratory_fallback,low_medium,6,6,12,12,6,6,6,6,19,19,76,76,0,,pass
+گرشا رضایی,pop,insufficient_artist_evidence,insufficient_artist_evidence,artist_status,insufficient,0,0,0,0,0,0,0,0,0,0,11,11,0,,pass

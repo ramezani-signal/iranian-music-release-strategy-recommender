@@ -1,0 +1,310 @@
+{
+  "recommendation_engine_version": "RE_V1",
+  "methodological_note": "Recommendations are observational, context-dependent and non-causal.",
+  "artists": [
+    {
+      "artist_name_fa": "ساسی مانکن",
+      "category": "rap_hiphop",
+      "recommendations": [
+        {
+          "artist_name_fa": "ساسی مانکن",
+          "category": "rap_hiphop",
+          "signal": "duration_minutes",
+          "rule_type": "personalized_range",
+          "recommendation_scope": "artist_specific",
+          "evidence_grade": "B_context_dependent",
+          "recommendation_strength": "cautious",
+          "confidence": "low_medium",
+          "support_count": 2,
+          "comparison_count": 15,
+          "recommendation_text": "برای برنامه‌ریزی آثار آینده، بازه مدت آثار پربازده این هنرمند حدود 3.20 تا 4.15 دقیقه و میانه آن 3.67 دقیقه بوده است.",
+          "evidence_summary": "positive-release duration IQR=3.20-4.15 minutes; median=3.67",
+          "uncertainty_note": "این بازه نسخه‌برداری از گذشته نیست و باید همراه با ساختار قطعه، سبک و هدف انتشار تفسیر شود.",
+          "recommendation_engine_version": "RE_V1"
+        },
+        {
+          "artist_name_fa": "ساسی مانکن",
+          "category": "rap_hiphop",
+          "signal": "days_since_previous_release",
+          "rule_type": "personalized_cadence",
+          "recommendation_scope": "artist_specific_exploratory",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "low_medium",
+          "support_count": 2,
+          "comparison_count": 15,
+          "recommendation_text": "فاصله انتشار آثار پربازده این هنرمند در داده موجود عمدتاً بین 396.8 تا 460.2 روز بوده و میانه آن 428.5 روز است.",
+          "evidence_summary": "positive-release cadence IQR=396.8-460.2 days; median=428.5",
+          "uncertainty_note": "فاصله انتشار تحت تأثیر کمپین تبلیغاتی، فصل، آمادگی اثر و برنامه پلتفرم قرار دارد.",
+          "recommendation_engine_version": "RE_V1"
+        }
+      ]
+    },
+    {
+      "artist_name_fa": "سهراب پاکزاد",
+      "category": "pop",
+      "recommendations": [
+        {
+          "artist_name_fa": "سهراب پاکزاد",
+          "category": "pop",
+          "signal": "title_has_lyric_video",
+          "rule_type": "exploratory_opportunity",
+          "recommendation_scope": "category_exploratory_fallback",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "low",
+          "support_count": 19,
+          "comparison_count": 76,
+          "recommendation_text": "در این دسته موسیقایی، قالب «Lyric Video» در میان برخی آثار پربازده بیشتر دیده شده است؛ برای این هنرمند فقط به‌صورت آزمایشی بررسی شود.",
+          "evidence_summary": "category high_or_top lyric-video rate=31.58%; category overall rate=15.79%",
+          "uncertainty_note": "این پیشنهاد از الگوی دسته موسیقایی استخراج شده و شواهد مستقیم هنرمند کافی نیست.",
+          "recommendation_engine_version": "RE_V1"
+        }
+      ]
+    },
+    {
+      "artist_name_fa": "علیرضا قربانی",
+      "category": "classic_fusion",
+      "recommendations": [
+        {
+          "artist_name_fa": "علیرضا قربانی",
+          "category": "classic_fusion",
+          "signal": "duration_minutes",
+          "rule_type": "personalized_range",
+          "recommendation_scope": "artist_specific",
+          "evidence_grade": "B_context_dependent",
+          "recommendation_strength": "cautious",
+          "confidence": "medium_high",
+          "support_count": 4,
+          "comparison_count": 9,
+          "recommendation_text": "برای برنامه‌ریزی آثار آینده، بازه مدت آثار پربازده این هنرمند حدود 3.57 تا 5.67 دقیقه و میانه آن 4.52 دقیقه بوده است.",
+          "evidence_summary": "positive-release duration IQR=3.57-5.67 minutes; median=4.52",
+          "uncertainty_note": "این بازه نسخه‌برداری از گذشته نیست و باید همراه با ساختار قطعه، سبک و هدف انتشار تفسیر شود.",
+          "recommendation_engine_version": "RE_V1"
+        },
+        {
+          "artist_name_fa": "علیرضا قربانی",
+          "category": "classic_fusion",
+          "signal": "days_since_previous_release",
+          "rule_type": "personalized_cadence",
+          "recommendation_scope": "artist_specific_exploratory",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "medium",
+          "support_count": 4,
+          "comparison_count": 9,
+          "recommendation_text": "فاصله انتشار آثار پربازده این هنرمند در داده موجود عمدتاً بین 92.1 تا 560.4 روز بوده و میانه آن 325.7 روز است.",
+          "evidence_summary": "positive-release cadence IQR=92.1-560.4 days; median=325.7",
+          "uncertainty_note": "فاصله انتشار تحت تأثیر کمپین تبلیغاتی، فصل، آمادگی اثر و برنامه پلتفرم قرار دارد.",
+          "recommendation_engine_version": "RE_V1"
+        }
+      ]
+    },
+    {
+      "artist_name_fa": "فرزاد فرزین",
+      "category": "pop",
+      "recommendations": [
+        {
+          "artist_name_fa": "فرزاد فرزین",
+          "category": "pop",
+          "signal": "title_has_lyric_video",
+          "rule_type": "exploratory_opportunity",
+          "recommendation_scope": "category_exploratory_fallback",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "low",
+          "support_count": 19,
+          "comparison_count": 76,
+          "recommendation_text": "در این دسته موسیقایی، قالب «Lyric Video» در میان برخی آثار پربازده بیشتر دیده شده است؛ برای این هنرمند فقط به‌صورت آزمایشی بررسی شود.",
+          "evidence_summary": "category high_or_top lyric-video rate=31.58%; category overall rate=15.79%",
+          "uncertainty_note": "این پیشنهاد از الگوی دسته موسیقایی استخراج شده و شواهد مستقیم هنرمند کافی نیست.",
+          "recommendation_engine_version": "RE_V1"
+        }
+      ]
+    },
+    {
+      "artist_name_fa": "محسن چاووشی",
+      "category": "pop",
+      "recommendations": [
+        {
+          "artist_name_fa": "محسن چاووشی",
+          "category": "pop",
+          "signal": "duration_minutes",
+          "rule_type": "personalized_range",
+          "recommendation_scope": "artist_specific",
+          "evidence_grade": "B_context_dependent",
+          "recommendation_strength": "cautious",
+          "confidence": "medium_high",
+          "support_count": 13,
+          "comparison_count": 21,
+          "recommendation_text": "برای برنامه‌ریزی آثار آینده، بازه مدت آثار پربازده این هنرمند حدود 3.83 تا 4.57 دقیقه و میانه آن 4.20 دقیقه بوده است.",
+          "evidence_summary": "positive-release duration IQR=3.83-4.57 minutes; median=4.20",
+          "uncertainty_note": "این بازه نسخه‌برداری از گذشته نیست و باید همراه با ساختار قطعه، سبک و هدف انتشار تفسیر شود.",
+          "recommendation_engine_version": "RE_V1"
+        },
+        {
+          "artist_name_fa": "محسن چاووشی",
+          "category": "pop",
+          "signal": "title_has_music_video",
+          "rule_type": "contextual_marker",
+          "recommendation_scope": "artist_specific",
+          "evidence_grade": "B_context_dependent",
+          "recommendation_strength": "cautious",
+          "confidence": "medium_high",
+          "support_count": 13,
+          "comparison_count": 21,
+          "recommendation_text": "برچسب یا قالب «Music Video» برای این هنرمند با احتیاط استفاده شود؛ در داده تاریخی همین هنرمند، این قالب در میان آثار پربازده سهم کمتری داشته است.",
+          "evidence_summary": "high_or_top music-video rate=0.0%; other-release music-video rate=25.0%",
+          "uncertainty_note": "این رابطه مشاهده‌ای است و ممکن است ناشی از نوع اثر، بودجه تولید، زمان انتشار یا سیاست کانال باشد.",
+          "recommendation_engine_version": "RE_V1"
+        },
+        {
+          "artist_name_fa": "محسن چاووشی",
+          "category": "pop",
+          "signal": "days_since_previous_release",
+          "rule_type": "personalized_cadence",
+          "recommendation_scope": "artist_specific_exploratory",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "medium",
+          "support_count": 13,
+          "comparison_count": 21,
+          "recommendation_text": "فاصله انتشار آثار پربازده این هنرمند در داده موجود عمدتاً بین 18.9 تا 167.4 روز بوده و میانه آن 58.0 روز است.",
+          "evidence_summary": "positive-release cadence IQR=18.9-167.4 days; median=58.0",
+          "uncertainty_note": "فاصله انتشار تحت تأثیر کمپین تبلیغاتی، فصل، آمادگی اثر و برنامه پلتفرم قرار دارد.",
+          "recommendation_engine_version": "RE_V1"
+        },
+        {
+          "artist_name_fa": "محسن چاووشی",
+          "category": "pop",
+          "signal": "title_has_lyric_video",
+          "rule_type": "exploratory_opportunity",
+          "recommendation_scope": "category_exploratory_fallback",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "low",
+          "support_count": 19,
+          "comparison_count": 76,
+          "recommendation_text": "در این دسته موسیقایی، قالب «Lyric Video» در میان برخی آثار پربازده بیشتر دیده شده است؛ برای این هنرمند فقط به‌صورت آزمایشی بررسی شود.",
+          "evidence_summary": "category high_or_top lyric-video rate=31.58%; category overall rate=15.79%",
+          "uncertainty_note": "این پیشنهاد از الگوی دسته موسیقایی استخراج شده و شواهد مستقیم هنرمند کافی نیست.",
+          "recommendation_engine_version": "RE_V1"
+        }
+      ]
+    },
+    {
+      "artist_name_fa": "محسن یگانه",
+      "category": "pop",
+      "recommendations": [
+        {
+          "artist_name_fa": "محسن یگانه",
+          "category": "pop",
+          "signal": "duration_minutes",
+          "rule_type": "personalized_range",
+          "recommendation_scope": "artist_specific",
+          "evidence_grade": "B_context_dependent",
+          "recommendation_strength": "cautious",
+          "confidence": "medium_high",
+          "support_count": 4,
+          "comparison_count": 12,
+          "recommendation_text": "برای برنامه‌ریزی آثار آینده، بازه مدت آثار پربازده این هنرمند حدود 3.84 تا 4.33 دقیقه و میانه آن 4.02 دقیقه بوده است.",
+          "evidence_summary": "positive-release duration IQR=3.84-4.33 minutes; median=4.02",
+          "uncertainty_note": "این بازه نسخه‌برداری از گذشته نیست و باید همراه با ساختار قطعه، سبک و هدف انتشار تفسیر شود.",
+          "recommendation_engine_version": "RE_V1"
+        },
+        {
+          "artist_name_fa": "محسن یگانه",
+          "category": "pop",
+          "signal": "days_since_previous_release",
+          "rule_type": "personalized_cadence",
+          "recommendation_scope": "artist_specific_exploratory",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "medium",
+          "support_count": 3,
+          "comparison_count": 12,
+          "recommendation_text": "فاصله انتشار آثار پربازده این هنرمند در داده موجود عمدتاً بین 355.3 تا 918.6 روز بوده و میانه آن 706.2 روز است.",
+          "evidence_summary": "positive-release cadence IQR=355.3-918.6 days; median=706.2",
+          "uncertainty_note": "فاصله انتشار تحت تأثیر کمپین تبلیغاتی، فصل، آمادگی اثر و برنامه پلتفرم قرار دارد.",
+          "recommendation_engine_version": "RE_V1"
+        },
+        {
+          "artist_name_fa": "محسن یگانه",
+          "category": "pop",
+          "signal": "title_has_lyric_video",
+          "rule_type": "exploratory_opportunity",
+          "recommendation_scope": "category_exploratory_fallback",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "low",
+          "support_count": 19,
+          "comparison_count": 76,
+          "recommendation_text": "در این دسته موسیقایی، قالب «Lyric Video» در میان برخی آثار پربازده بیشتر دیده شده است؛ برای این هنرمند فقط به‌صورت آزمایشی بررسی شود.",
+          "evidence_summary": "category high_or_top lyric-video rate=31.58%; category overall rate=15.79%",
+          "uncertainty_note": "این پیشنهاد از الگوی دسته موسیقایی استخراج شده و شواهد مستقیم هنرمند کافی نیست.",
+          "recommendation_engine_version": "RE_V1"
+        }
+      ]
+    },
+    {
+      "artist_name_fa": "هیچکس",
+      "category": "rap_hiphop",
+      "recommendations": [
+        {
+          "artist_name_fa": "هیچکس",
+          "category": "rap_hiphop",
+          "signal": "duration_minutes",
+          "rule_type": "personalized_range",
+          "recommendation_scope": "artist_specific",
+          "evidence_grade": "B_context_dependent",
+          "recommendation_strength": "cautious",
+          "confidence": "medium",
+          "support_count": 4,
+          "comparison_count": 7,
+          "recommendation_text": "برای برنامه‌ریزی آثار آینده، بازه مدت آثار پربازده این هنرمند حدود 3.01 تا 3.67 دقیقه و میانه آن 3.22 دقیقه بوده است.",
+          "evidence_summary": "positive-release duration IQR=3.01-3.67 minutes; median=3.22",
+          "uncertainty_note": "این بازه نسخه‌برداری از گذشته نیست و باید همراه با ساختار قطعه، سبک و هدف انتشار تفسیر شود.",
+          "recommendation_engine_version": "RE_V1"
+        },
+        {
+          "artist_name_fa": "هیچکس",
+          "category": "rap_hiphop",
+          "signal": "days_since_previous_release",
+          "rule_type": "personalized_cadence",
+          "recommendation_scope": "artist_specific_exploratory",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "medium",
+          "support_count": 3,
+          "comparison_count": 7,
+          "recommendation_text": "فاصله انتشار آثار پربازده این هنرمند در داده موجود عمدتاً بین 60.2 تا 386.2 روز بوده و میانه آن 78.3 روز است.",
+          "evidence_summary": "positive-release cadence IQR=60.2-386.2 days; median=78.3",
+          "uncertainty_note": "فاصله انتشار تحت تأثیر کمپین تبلیغاتی، فصل، آمادگی اثر و برنامه پلتفرم قرار دارد.",
+          "recommendation_engine_version": "RE_V1"
+        }
+      ]
+    },
+    {
+      "artist_name_fa": "گرشا رضایی",
+      "category": "pop",
+      "recommendations": [
+        {
+          "artist_name_fa": "گرشا رضایی",
+          "category": "pop",
+          "signal": "title_has_lyric_video",
+          "rule_type": "exploratory_opportunity",
+          "recommendation_scope": "category_exploratory_fallback",
+          "evidence_grade": "C_exploratory",
+          "recommendation_strength": "exploratory",
+          "confidence": "low",
+          "support_count": 19,
+          "comparison_count": 76,
+          "recommendation_text": "در این دسته موسیقایی، قالب «Lyric Video» در میان برخی آثار پربازده بیشتر دیده شده است؛ برای این هنرمند فقط به‌صورت آزمایشی بررسی شود.",
+          "evidence_summary": "category high_or_top lyric-video rate=31.58%; category overall rate=15.79%",
+          "uncertainty_note": "این پیشنهاد از الگوی دسته موسیقایی استخراج شده و شواهد مستقیم هنرمند کافی نیست.",
+          "recommendation_engine_version": "RE_V1"
+        }
+      ]
+    }
+  ]
+}

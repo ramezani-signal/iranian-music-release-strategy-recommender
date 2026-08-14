@@ -1,0 +1,17 @@
+﻿artist_name_fa,category,signal,recommendation_scope,evidence_grade,reported_confidence,reported_support_count,actual_support_count,actual_signal_count,actual_positive_signal_count,actual_negative_signal_count,support_count_matches,issue_count,issue_flags,audit_status
+ساسی مانکن,rap_hiphop,duration_minutes,artist_specific,B_context_dependent,low_medium,2,2,0,0,0,1,1,duration_range_support_below_3,needs_revision
+ساسی مانکن,rap_hiphop,days_since_previous_release,artist_specific_exploratory,C_exploratory,low_medium,2,2,0,0,0,1,1,cadence_range_support_below_3,needs_revision
+سهراب پاکزاد,pop,title_has_lyric_video,category_exploratory_fallback,C_exploratory,low,19,6,12,6,6,0,1,reported_support_count_mismatch,needs_revision
+علیرضا قربانی,classic_fusion,duration_minutes,artist_specific,B_context_dependent,medium_high,4,4,0,0,0,1,0,,pass
+علیرضا قربانی,classic_fusion,days_since_previous_release,artist_specific_exploratory,C_exploratory,medium,4,4,0,0,0,1,0,,pass
+فرزاد فرزین,pop,title_has_lyric_video,category_exploratory_fallback,C_exploratory,low,19,6,12,6,6,0,1,reported_support_count_mismatch,needs_revision
+محسن چاووشی,pop,duration_minutes,artist_specific,B_context_dependent,medium_high,13,13,0,0,0,1,0,,pass
+محسن چاووشی,pop,title_has_music_video,artist_specific,B_context_dependent,medium_high,13,0,2,0,2,0,3,positive_signal_support_below_2 | reported_support_count_mismatch | confidence_too_high_for_support,needs_revision
+محسن چاووشی,pop,days_since_previous_release,artist_specific_exploratory,C_exploratory,medium,13,13,0,0,0,1,0,,pass
+محسن چاووشی,pop,title_has_lyric_video,category_exploratory_fallback,C_exploratory,low,19,6,12,6,6,0,1,reported_support_count_mismatch,needs_revision
+محسن یگانه,pop,duration_minutes,artist_specific,B_context_dependent,medium_high,4,4,0,0,0,1,0,,pass
+محسن یگانه,pop,days_since_previous_release,artist_specific_exploratory,C_exploratory,medium,3,3,0,0,0,1,0,,pass
+محسن یگانه,pop,title_has_lyric_video,category_exploratory_fallback,C_exploratory,low,19,6,12,6,6,0,1,reported_support_count_mismatch,needs_revision
+هیچکس,rap_hiphop,duration_minutes,artist_specific,B_context_dependent,medium,4,4,0,0,0,1,0,,pass
+هیچکس,rap_hiphop,days_since_previous_release,artist_specific_exploratory,C_exploratory,medium,3,3,0,0,0,1,0,,pass
+گرشا رضایی,pop,title_has_lyric_video,category_exploratory_fallback,C_exploratory,low,19,6,12,6,6,0,1,reported_support_count_mismatch,needs_revision

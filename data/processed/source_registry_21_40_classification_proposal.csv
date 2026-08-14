@@ -1,0 +1,21 @@
+﻿channel_id,api_channel_title,candidate_videos,matched_artists,licensed_videos,music_category_videos,artists,source_type,source_status,source_notes,proposed_source_type,proposed_source_status,classification_confidence
+UCHgdN_bLmnnuvt6bKn8Uxfw,Sasy - Topic,2,1,2,2,ساسی مانکن,unknown,pending_review,,topic,trusted,high
+UCX7iFtn4OnJYNLXyKQsnHGg,MELODIFA CLASSIC,2,1,2,2,همایون شجریان,unknown,pending_review,,trusted_music_platform,trusted,high
+UChysexdHBwnvEMDFuKiCUZw,HichkasVEVO,2,1,2,2,هیچکس,unknown,pending_review,,vevo,trusted,high
+UCoOjmdECYvybtOOKtlwvsAw,RadioActive Zone,2,1,2,0,هیچکس,unknown,pending_review,,reaction,excluded,high
+UCuGnnvoIOfRfkvYVHzTUWYQ,Persian Media Group,2,1,2,2,فرزاد فرزین,unknown,pending_review,,label_or_distributor,trusted,high
+UC9PxiuAlnUmaAhe52mYeXeQ,Mohammad Fazlali,2,1,0,0,علیرضا قربانی,unknown,pending_review,,third_party_music,pending_review,medium
+UCHZk9MrT3DGWmVqdsj5y0EA,BBC Persian,1,1,1,0,علیرضا قربانی,unknown,pending_review,,media_or_news,excluded,high
+UCMPdfQnOy5Vu07j6C141FWQ,PUMP VOD,1,1,1,0,فرزاد فرزین,unknown,pending_review,,entertainment,excluded,high
+UCQlzBlY30F51MXStCS2KfGQ,Parsi Tv,1,1,1,0,محسن یگانه,unknown,pending_review,,media_or_news,excluded,high
+UCQngZK1cnqB6C9A11wIPkvQ,Music City | موزیک شهر,1,1,1,1,محسن یگانه,unknown,pending_review,,reaction,excluded,high
+UCVJZW-tOn3hFgeh0kZpSbjw,Mehdi Kord Art Group,1,1,1,1,محسن یگانه,unknown,pending_review,,third_party_music,pending_review,medium
+UC_xcDPW-ARj59n1qhYaLOqQ,Alireza Ghorbani - Topic,1,1,1,1,علیرضا قربانی,unknown,pending_review,,topic,trusted,high
+UCa20QQoV4gaLv9XRki-ynWQ,PUTAK,1,1,1,0,هیچکس,unknown,pending_review,,unknown,pending_review,low
+UCfTyeE7jWJK6q7lTdIUv57w,Anoushiravan Rohani,1,1,1,1,همایون شجریان,unknown,pending_review,,artist_owned,pending_review,medium
+UChLs096B3kOpLYhVK1ldSvg,Khosousi,1,1,1,1,همایون شجریان,unknown,pending_review,,third_party_music,excluded,high
+UCkpVRmYsrxg4I8SsTQA2CkA,Masoud Masoumi,1,1,1,1,علیرضا قربانی,unknown,pending_review,,third_party_music,pending_review,medium
+UCmp7UNNvJIkRTd44nC5PR9g,Saeed Afrough,1,1,1,1,گرشا رضایی,unknown,pending_review,,reaction,excluded,high
+UCobfxWqSORuodnQ5rdNw-bw,Mohsen Yeganeh - Topic,1,1,1,1,محسن یگانه,unknown,pending_review,,topic,trusted,high
+UCtS_MyKAEqPJgw-WNPxb5cA,SINAVID,1,1,1,0,هیچکس,unknown,pending_review,,unknown,pending_review,low
+UCtnsBNReKiPjTZoz7qBZDlA,مجله خبری پرایم نیوز,1,1,1,0,ساسی مانکن,unknown,pending_review,,media_or_news,excluded,high

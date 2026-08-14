@@ -1,0 +1,10 @@
+﻿analysis_type,adjustment_type,signal,target,n_signal_0,n_signal_1,median_signal_0,median_signal_1,median_difference,mann_whitney_statistic,pvalue,spearman_correlation
+binary_signal,unadjusted,title_has_music_video,performance_percentile_final,89.0,26,54.55,42.105000000000004,-12.444999999999993,859.0,0.04668279369207972,
+binary_signal,unadjusted,title_has_lyric_video,performance_percentile_final,103.0,12,50.0,71.055,21.055000000000007,753.5,0.21680564664129431,
+continuous_signal,unadjusted,duration_minutes,performance_percentile_final,,115,,,,,0.002059970218708646,0.28449224912309695
+binary_signal,artist_median_adjusted,title_has_music_video,performance_residual_artist_median,89.0,26,0.0,0.0,0.0,1134.0,0.8804034345032343,
+binary_signal,artist_median_adjusted,title_has_lyric_video,performance_residual_artist_median,103.0,12,0.0,3.9499999999999957,3.9499999999999957,699.5,0.45861949891581866,
+continuous_signal,artist_median_adjusted,duration_minutes,performance_residual_artist_median,,115,,,,,0.4162563635503507,0.07653119622748707
+binary_signal,category_median_adjusted,title_has_music_video,performance_residual_category_median,89.0,26,2.2749999999999986,-8.554999999999996,-10.829999999999995,872.0,0.05714155308131708,
+binary_signal,category_median_adjusted,title_has_lyric_video,performance_residual_category_median,103.0,12,-1.9799999999999969,20.395000000000003,22.375,766.0,0.17720482270912064,
+continuous_signal,category_median_adjusted,duration_minutes,performance_residual_category_median,,115,,,,,0.0025133192710082423,0.2792022685527942
